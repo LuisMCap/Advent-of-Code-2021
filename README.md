@@ -11,4 +11,8 @@ Link to their website: [Advent of Code](https://adventofcode.com "Advent of Code
 
 ## Update
 
+I was happy with some of the answers I did, others not so much. I relied a lot on Numpy instead of applying the proper algorithm, but I am still happy with the answers I did.
+
 I will no longer update the rest of the days, as of (12/24/2021) I still don't have a computer, and the challenge is going to end the next day. It was quite fun, and I learned a ton from doing this in my first year of learning how to code. I will try to do the next year as well! 
+
+
